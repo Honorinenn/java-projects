@@ -1,0 +1,3 @@
+com\cinder\controller\DatingController.class
+com\cinder\DatingApplication.class
+com\cinder\models\Person.class
